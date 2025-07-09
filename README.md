@@ -4,8 +4,8 @@ A simple and clean password generator built with HTML, CSS, and JavaScript. You 
 ---
 ## ✨ Features
 
-Adjustable password length (4–32 characters)
-Options to include:
+- Adjustable password length (4–32 characters)
+- Options to include:
 Uppercase letters (A–Z)
 Lowercase letters (a–z)
 Numbers (0–9)
